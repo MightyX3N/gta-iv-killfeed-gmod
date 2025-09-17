@@ -3,7 +3,8 @@
     "generic": ["Killed","Deaded","Ended","Wasted"],
     "fall": ["Fell to death","Faceplanted","Crashed","Gravity'ed"],
     "crush": ["Flattened","Crushed","Steamrollered"],
-    "melee": ["Bashed","Beat down","Hammered","Slashed","Butchered","Diced","Pulled apart","Disassembled"],
+    "melee": ["Bashed","Beat down","Hammered","Slashed","Butchered","Diced","Pulled apart","Disassembled"],,
+    "monster": ["Bashed","Clawed","Hammered","Slashed","Butchered","Diced","Pulled apart","Disassembled"],
     "bullet": ["Shot","Clipped","Pistoled","Pumped","Spray'd","Headshotted","Precision killed"],
     "explosive": ["Exploded","Vaporized","Boomed","Blown away","Shrapneled","Disintegrated"],
     "burn": ["Roasted","Torched","Charred","Smoldered","Singed","Cindered","Incinerated"],
@@ -14,19 +15,11 @@
     "energy": ["Lasered","Beamed","Plasmad","Fired","Incinerated","Electrocuted","Zapped","Shocked","Sonic'd","Deafened"]
   },
   "mapping_weapon": {
-    "weapon_rpg": "explosive",
-    "weapon_frag": "explosive",
-    "arccw_tf_flamethrower": "burn",
-    "weapon_crowbar": "melee",
-    "weapon_physgun": "melee",
-    "weapon_ar2_energy": "energy",
-    "weapon_crossbow": "energy",
-    "arccw_tf_flaregun": "burn"
+    "weapon_*": "bullet"
   },
   "mapping_npc": {
-    "npc_zombie": "melee",
-    "npc_combine_s": "generic",
-    "npc_citizen": "generic"
+    "npc_zombie": "monster",
+    "npc_fastzombie": "monster"
   },
   "mapping_prop": {
     "prop_physics": "crush"
