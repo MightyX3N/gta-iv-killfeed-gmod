@@ -16,7 +16,7 @@
   "mapping_weapon": {
     "weapon_rpg": "explosive",
     "weapon_frag": "explosive",
-    "arccw_flamefire": "burn",
+    "arccw_tf_flamethrower": "burn",
     "weapon_crowbar": "melee",
     "weapon_physgun": "melee",
     "weapon_ar2_energy": "energy",
