@@ -3,7 +3,7 @@
     "generic": ["Killed","Deaded","Ended","Wasted"],
     "fall": ["Fell to death","Faceplanted","Crashed","Gravity'ed"],
     "crush": ["Flattened","Crushed","Steamrollered"],
-    "melee": ["Bashed","Beat down","Hammered","Slashed","Butchered","Diced","Pulled apart","Disassembled"],,
+    "melee": ["Bashed","Beat down","Hammered","Slashed","Butchered","Diced","Pulled apart","Disassembled"],
     "monster": ["Bashed","Clawed","Hammered","Slashed","Butchered","Diced","Pulled apart","Disassembled"],
     "bullet": ["Shot","Clipped","Pistoled","Pumped","Spray'd","Headshotted","Precision killed"],
     "explosive": ["Exploded","Vaporized","Boomed","Blown away","Shrapneled","Disintegrated"],
