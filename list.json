@@ -11,7 +11,7 @@
     "poison": ["Poisoned","Toxified","Venomed","Nerve-gassed","Paralyzed","Disabled","Immobilized","Stunned"],
     "radiation": ["Radioactive","Mutated","Irradiated"],
     "dissolve": ["Dissolved","Vanished","Erased"],
-    "energy_weapons": ["Lasered","Beamed","Plasmad","Fired","Incinerated","Electrocuted","Zapped","Shocked","Sonic'd","Deafened"]
+    "energy": ["Lasered","Beamed","Plasmad","Fired","Incinerated","Electrocuted","Zapped","Shocked","Sonic'd","Deafened"]
   },
   "mapping_weapon": {
     "weapon_rpg": "explosive",
@@ -19,9 +19,8 @@
     "arccw_flamefire": "burn",
     "weapon_crowbar": "melee",
     "weapon_physgun": "melee",
-    "weapon_ar2_energy": "energy_weapons",
-    "weapon_crossbow": "energy_weapons",
-    "weapon_laser": "energy_weapons"
+    "weapon_ar2_energy": "energy",
+    "weapon_crossbow": "energy"
   },
   "mapping_npc": {
     "npc_zombie": "melee",
