@@ -20,7 +20,8 @@
     "weapon_crowbar": "melee",
     "weapon_physgun": "melee",
     "weapon_ar2_energy": "energy",
-    "weapon_crossbow": "energy"
+    "weapon_crossbow": "energy",
+    "arccw_tf_flaregun": "burn"
   },
   "mapping_npc": {
     "npc_zombie": "melee",
